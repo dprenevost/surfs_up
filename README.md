@@ -12,9 +12,9 @@ This next set of information is to highlight June and December as they are the b
 ![June](https://user-images.githubusercontent.com/91210001/142931683-107cfb63-4e69-4385-83ea-6df1d1b3b718.PNG)![Dec](https://user-images.githubusercontent.com/91210001/142931722-3de71035-e8cd-4b20-a1e0-16a1222d22ac.PNG)
 
 Here are the major take aways from the data:
-    *The range between both June and Dec min temps are less than 10 deg f.
-    *The range between both June and Dec max temps are less than 2 deg f.
-    *the average temps both June and Dec are 74 for June and 71 for December.
+* The range between both June and Dec min temps are less than 10 deg f.
+* The range between both June and Dec max temps are less than 2 deg f.
+* the average temps both June and Dec are 74 for June and 71 for December.
 
 
 The data indicates that Oahu would be a great place to operate a Surf and Icecream shop that caters to both the locals and the tourists year round!
