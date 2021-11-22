@@ -3,7 +3,7 @@
 This alalysis is being conducted as part of a buisiness viability evaluation for a surf \icecream shop on the island of Oahu.  More specificaly the rainfall and          temperaturesduring peak tourism times.
 The code from this project will be saved so we do not have to duplicate efforts when or if we decide to expand our buisiness to other islands in Hawaii.
 
-##Overview of the statistical analysis:
+## Overview of the statistical analysis:
      This is a representation of the amount of rainfall in Oahu using 9 different weather stations covering the entire previous year from 8/23/2016 to 8/23/2017.
 <insert percip_year>
 
@@ -16,7 +16,7 @@ Here are the major take aways from the data:
 * The range between both June and Dec max temps are less than 2 deg f.
 * the average temps both June and Dec are 74 for June and 71 for December.
 
-
+## Results of the data analysis-
 The data indicates that Oahu would be a great place to operate a Surf and Icecream shop that caters to both the locals and the tourists year round!
 
 
